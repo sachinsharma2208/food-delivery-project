@@ -68,12 +68,12 @@ JWT_SECRET=your_secret_key
 
 * Backend setup
 
-cd backend
+-cd backend
 npm install
 npm start/ npm server/ node server.js
 
 * Frontend setup
 
-cd frontend
+-cd frontend
 npm install
 npm run dev
