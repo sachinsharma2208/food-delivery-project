@@ -6,7 +6,7 @@ A full-stack food delivery application built using the MERN stack, designed to h
 
 ## Live Deployment
 
-- Frontend: https://your-frontend.vercel.app  
+- Frontend: [https://your-frontend.vercel.app](https://food-delivery-project-lac.vercel.app/)  
 - Backend: https://your-backend.onrender.com  
 
 ---
