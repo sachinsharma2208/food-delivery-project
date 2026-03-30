@@ -10,7 +10,7 @@ import 'react-toastify/dist/ReactToastify.css';
 
 const App = () => {
 
-  const url="https://food-delivery-project-4lqu.onrender.com";  //  UPDATED
+  const url = import.meta.env.VITE_API_URL || "https://food-delivery-project-4lqu.onrender.com";
 
   return (
     <div>

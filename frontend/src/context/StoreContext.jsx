@@ -1,7 +1,8 @@
 import { createContext, useEffect, useState } from "react";
 import axios from "axios";
 
-const url = import.meta.env.VITE_API_URL;
+// const url = import.meta.env.VITE_API_URL; 
+const url = "https://food-delivery-project-4lqu.onrender.com";
 
 export const StoreContext = createContext(null);
 
